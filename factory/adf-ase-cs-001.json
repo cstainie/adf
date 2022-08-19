@@ -1,5 +1,13 @@
 {
 	"name": "adf-ase-cs-001",
+	"properties": {
+		"globalParameters": {
+			"test": {
+				"type": "string",
+				"value": "abc"
+			}
+		}
+	},
 	"location": "westeurope",
 	"identity": {
 		"type": "SystemAssigned",
